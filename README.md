@@ -1,2 +1,2 @@
 # animated-garbanzo
-Test Sample
+Testing
